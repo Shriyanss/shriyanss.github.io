@@ -15,7 +15,7 @@ So, I'm just this high school dude from India who's kinda obsessed with web app 
 
 ### Bug Busting Ninja 🐞
 
-Oh, and I'm into this bug bounty hunting thing on [HackerOne/@shriyanss](http://hackerone.com/shriyanss). Currently, I'm sitting at a cool 479 points (and counting!). Finding those sneaky bugs is like a treasure hunt, but in cyberspace!
+Oh, and I'm into this bug bounty hunting thing on [HackerOne/@shriyanss](https://hackerone.com/shriyanss). Currently, I'm sitting at a cool 479 points (and counting!). Finding those sneaky bugs is like a treasure hunt, but in cyberspace!
 
 ### Project Playground 💡
 
