@@ -16,7 +16,7 @@ timezone:
 
 title: Shriyans Sudhi # the main title
 
-tagline: Just another security guy :) # it will display as the sub-title
+tagline: Infosec nerd and breaking stuff on HackerOne # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   GitHub page focused on mostly security content written by a n00b security guy
@@ -63,7 +63,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
