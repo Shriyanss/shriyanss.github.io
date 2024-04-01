@@ -3,7 +3,7 @@ title: External Links
 icon: fas fa-link
 order: 5
 ---
-# <i class="fa-solid fa-globe"></i> <a href="https://www.ss0x00.in/">Website</a>
+# <i class="fa-solid fa-globe"></i> <a href="https://www.ss0x00.in/" target="">Website</a>
 # <i class="fa-solid fa-h"></i> <a href="https://hackerone.com/shriyanss" target="_blank">HackerOne/@shriyanss</a>
 # <i class="fa-brands fa-github"></i> <a href="https://github.com/shriyanss" target="_blank">Github/@shriyanss</a>
 # <i class="fa-brands fa-x-twitter"></i> <a href="https://twitter.com/ss0x00" target="_blank">X (Aka. Twitter)/@ss0x00</a>
